@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/monuvlog.html"
+status = 200
